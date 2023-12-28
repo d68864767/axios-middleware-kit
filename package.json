@@ -1,0 +1,31 @@
+{
+  "name": "axios-middleware-kit",
+  "version": "1.0.0",
+  "description": "A middleware kit for Axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/axios-middleware-kit.git"
+  },
+  "keywords": [
+    "axios",
+    "middleware",
+    "http",
+    "requests"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/axios-middleware-kit/issues"
+  },
+  "homepage": "https://github.com/yourusername/axios-middleware-kit#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

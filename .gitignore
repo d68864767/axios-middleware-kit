@@ -1,0 +1,19 @@
+# Node.js related
+node_modules/
+npm-debug.log
+
+# IDE related
+.idea/
+.vscode/
+*.iml
+
+# Operating system related
+.DS_Store
+Thumbs.db
+
+# Test related
+coverage/
+.nyc_output/
+
+# Dist directory
+dist/
